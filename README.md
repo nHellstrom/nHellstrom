@@ -4,10 +4,10 @@ Interested in web development and design, game modding & making pointless GUIs.
 
 <h2>Main skills</h2>
 - C# (ASP.NET Core, Unity, MAUI)
-- 
+
 - JavaScript (inc. React)
 
 <h2>Current goals</h2>
 - 🐍 Python
-- 
+
 - 💾 Expand portfolio with practical projects
