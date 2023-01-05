@@ -6,14 +6,14 @@ Interested in web development and design, game modding & making pointless GUIs.
 
 - C# (ASP.NET Core, Unity, MAUI)
 
-- JavaScript / TypeScript (inc. React)
+- JavaScript (inc. React)
 
-- CSS Magic
+- Web stuff
 
 <h2>Current goals</h2>
 
 - 🐍 Python
 
-- 💾 Expand portfolio with practical projects
+- 💾 Make a portfolio site
 
-- 🎏 Finish this readme & clean junk repos
+- 🎏 Expand this readme
