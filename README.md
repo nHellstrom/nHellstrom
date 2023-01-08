@@ -1,4 +1,4 @@
-<div style="text-align:center;max-width:500px;color:blue">
+<div align="center">
   <h1>nHellstroms repo</h1>
   <p>I'm an aspiring professional programmer in the beginning of my coding career.
   Interested in fullstack web development and design, game development & always eyeing new languages.</p>
