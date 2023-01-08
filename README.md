@@ -6,9 +6,9 @@ Interested in fullstack web development and design, game development & always ey
 
 <h2>Main skills</h2>
 
-- C# (ASP.NET Core, Unity, MAUI)
+- C# (ASP.NET Core, Unity, Blazor, MAUI)
 
-- JavaScript (inc. React)
+- JavaScript & TypeScript + React
 
 - Web stuff
 
