@@ -1,7 +1,8 @@
 <h1>About me</h1>
-<p>I'm an aspiring professional programmer in the beginning of my coding career.<br/>
-Interested in fullstack web development and design, game development & always eyeing new languages.<br/>
-When I am not coding, I am most likely generating art with Stable Diffusion, taking a walk with an audiobook,playing a game or watching a series. </p>
+<p>I'm an aspiring professional programmer in the beginning of my coding career, with an<br/>
+interest in fullstack web development and design, game development & always eyeing new languages.<br/>
+When I am not coding, I am most likely generating art with Stable Diffusion, taking a walk with an audiobook,<br/>
+playing a game or watching a series. </p>
 
 <p>I am currently located in Stockholm, where I work as a software development consultat at SALT.</p>
 
