@@ -5,12 +5,19 @@ Interested in fullstack web development and design, game development & always ey
 <p>I am currently located in Stockholm, where I work as a software development consultat at SALT.</p>
 
 <h2>Languages & Tools </h2>
+Tech I wouldn't be scared of if it suddenly jumped at me.
 
-- C# (ASP.NET Core, Unity, Blazor, MAUI)
+- C# (ASP.NET Core, Unity, Blazor & Razor pages, Entity Framework Core)
 
 - JavaScript & TypeScript + React
 
-- Markup (HTML, Sassy CSS)
+- Markup (HTML, Sassy CSS, XAML)
+
+- Docker
+
+- MSSQL
+
+- Azure hosting
 
 <h2>Current goals</h2>
 
