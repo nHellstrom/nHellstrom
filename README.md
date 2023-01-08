@@ -1,5 +1,6 @@
+<div style="text-align:center;max-width:500px">
 <h1>nHellstroms repo</h1>
-<p>I'm an aspiring professional programmer in the beginning of my coding career.<br/>
+<p>I'm an aspiring professional programmer in the beginning of my coding career.
 Interested in fullstack web development and design, game development & always eyeing new languages.</p>
 
 <p>I am currently located in Stockholm, where I work as a software development consultat at SALT.</p>
@@ -14,10 +15,11 @@ Interested in fullstack web development and design, game development & always ey
 
 <h2>Current goals</h2>
 
-- 🐍 Become comfortable with data science tools in Python,<br> to complement my newfound passion for the StableDiffusion algorithm.
+- 🐍 Become comfortable with data science tools in Python, to complement my newfound passion for the StableDiffusion algorithm.
 
 - 🎏 Expand this readme
 
 <h2>Miscellaneous</h2>
 
 - Codewars profile: https://www.codewars.com/users/Svampius
+</div>
