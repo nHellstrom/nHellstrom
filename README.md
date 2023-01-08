@@ -4,19 +4,17 @@ Interested in fullstack web development and design, game development & always ey
 
 <p>I am currently located in Stockholm, where I work as a software development consultat at SALT.</p>
 
-<h2>Main skills</h2>
+<h2>Languages & Tools </h2>
 
 - C# (ASP.NET Core, Unity, Blazor, MAUI)
 
 - JavaScript & TypeScript + React
 
-- Web stuff
+- Markup (HTML, Sassy CSS)
 
 <h2>Current goals</h2>
 
-- 🐍 Python
-
-- 💾 Make a portfolio site
+- 🐍 Become comfortable with data science tools in Python,<br> to complement my newfound passion for the StableDiffusion algorithm.
 
 - 🎏 Expand this readme
 
