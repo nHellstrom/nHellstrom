@@ -19,3 +19,7 @@ Interested in fullstack web development and design, game development & always ey
 - 💾 Make a portfolio site
 
 - 🎏 Expand this readme
+
+<h2>Miscellaneous</h2>
+
+- Codewars profile: https://www.codewars.com/users/Svampius
