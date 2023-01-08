@@ -21,7 +21,7 @@ Tech I wouldn't be scared of if it suddenly jumped at me.
 
 <h2>Current goals</h2>
 
-- 🐍 Become comfortable with data science tools in Python,<br/> to complement my newfound passion for the StableDiffusion algorithm.
+- 🐍 Become comfortable with data science tools in Python,<br/> to complement my newfound passion for creating art with the Stable Diffusion algorithm.
 
 - 🎏 Expand this readme
 
