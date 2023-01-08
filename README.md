@@ -1,4 +1,4 @@
-<h1>nHellstroms repo</h1>
+<h1>About me</h1>
 <p>I'm an aspiring professional programmer in the beginning of my coding career.<br/>
 Interested in fullstack web development and design, game development & always eyeing new languages.</p>
 
