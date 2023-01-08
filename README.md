@@ -1,6 +1,7 @@
 <h1>About me</h1>
 <p>I'm an aspiring professional programmer in the beginning of my coding career.<br/>
-Interested in fullstack web development and design, game development & always eyeing new languages.</p>
+Interested in fullstack web development and design, game development & always eyeing new languages.<br/>
+When I am not coding, I am most likely generating art with Stable Diffusion, taking a walk with an audiobook,playing a game or watching a series. </p>
 
 <p>I am currently located in Stockholm, where I work as a software development consultat at SALT.</p>
 
@@ -21,7 +22,7 @@ Tech I wouldn't be scared of if it suddenly jumped at me.
 
 <h2>Current goals</h2>
 
-- 🐍 Become comfortable with data science tools in Python,<br/> to complement my newfound passion for creating art with the Stable Diffusion algorithm.
+- 🐍 Become comfortable with data science tools in Python, to dwell even deeper with Stable Diffusion.
 
 - 🎏 Expand this readme
 
