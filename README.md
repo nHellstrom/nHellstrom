@@ -4,6 +4,10 @@ Interested in fullstack web development and design, game development & always ey
 
 <p>I am currently located in Stockholm, where I work as a software development consultat at SALT.</p>
 
+<h2>Stats</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nHellstrom&theme=dark&background=800020)](https://git.io/streak-stats)
+
 <h2>Languages & Tools </h2>
 Tech I wouldn't be scared of if it suddenly jumped at me.
 
