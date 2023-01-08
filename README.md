@@ -32,4 +32,4 @@ Tech I wouldn't be scared of if it suddenly jumped at me.
 
 ![nHellstrom's GitHub stats](https://github-readme-stats.vercel.app/api?username=nHellstrom&show_icons=true&theme=synthwave)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nHellstrom&theme=dark&background=301934)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nHellstrom&theme=dark&background=433358)](https://git.io/streak-stats)
