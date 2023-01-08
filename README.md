@@ -1,6 +1,8 @@
 <h1>nHellstroms repo</h1>
-I'm an aspiring professional programmer in the beginning of my coding career. 
-Interested in web development and design, game modding & making pointless GUIs. 
+<p>I'm an aspiring professional programmer in the beginning of my coding career.<br/>
+Interested in fullstack web development and design, game development & always eyeing new languages.</p>
+
+<p>I am currently located in Stockholm, where I work as a software development consultat at SALT.</p>
 
 <h2>Main skills</h2>
 
