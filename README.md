@@ -1,3 +1,5 @@
+<a href="https://hellstrom.netlify.app/">my personal homepage is a little bit prettier than this and contains much of the same</a>
+
 <h1>About me</h1>
 <p>I'm an aspiring professional programmer in the beginning of my coding career, with an<br/>
 interest in fullstack web development and design, game development & always eyeing new languages.<br/>
