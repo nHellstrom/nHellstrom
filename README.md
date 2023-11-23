@@ -1,27 +1,26 @@
 <a href="https://hellstrom.netlify.app/">my personal homepage is a little bit prettier than this and contains much of the same</a>
 
 <h1>About me</h1>
-<p>I'm an aspiring professional programmer in the beginning of my coding career, with an<br/>
-interest in fullstack web development and design, game development & always eyeing new languages.<br/>
+<p>Professional fullstack .NET Developer</p>
+<p>Interested in web & game development, aesthetics & design, AI and flashy new frameworks.<br/>
 When I am not coding, I am most likely generating art with Stable Diffusion, taking a walk with an audiobook,<br/>
 playing a game or watching a series. </p>
 
-<p>I am currently located in Stockholm, where I work as a software development consultat at SALT.</p>
+<p>Currently located in Stockholm.</p>
 
 <h2>Languages & Tools </h2>
-Tech I wouldn't be scared of if it suddenly jumped at me.
 
 - C# (ASP.NET Core, Unity, Blazor & Razor pages, Entity Framework Core)
 
 - JavaScript & TypeScript + React
 
-- Markup (HTML, Sassy CSS, XAML)
+- Markup (HTML, Sassy CSS, XML, YAML)
 
 - Docker
 
 - MSSQL
 
-- Azure hosting
+- Azure stuff
 
 <h2>Current goals</h2>
 
